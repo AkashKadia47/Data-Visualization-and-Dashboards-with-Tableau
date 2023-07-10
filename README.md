@@ -22,7 +22,7 @@ The Global Burden of Disease is a major global study on the causes of death and 
 1. # Used Set Actions and Perameters. 
 Show top x causes of death and total deaths by perticular cause for y year. (x = number of causes, y = range of years)
 
-![Question 1](D:\Bootcamp\Projects\Tableau-Project_3\Final\Data-Visualization-and-Dashboards-with-Tableau\Image\Question 1.png)
+![Question 1](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%201.png)
 
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
