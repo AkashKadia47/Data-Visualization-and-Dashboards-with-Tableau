@@ -17,9 +17,8 @@
 5. Create story/presentation
 
 ## Results
-The dataset I choose to 
 ### I decided to choose option 2.
-## Dataset : (5) Causes of Death - Our World In Data
+### Dataset : Causes of Death - Our World In Data
 The Global Burden of Disease is a major global study on the causes of death and disease published in the medical journal The Lancet. This dataset shows the causes of the edaths from year 1990 to 2019.
 
 ## Download and Clean the data
@@ -27,49 +26,48 @@ The Global Burden of Disease is a major global study on the causes of death and 
 
 2. Dataset is already cleaned. So, I checked it and loaded the raw file in tableau for exploratory data distribution and applying some pivoting and cleaning.
 
-## Tableau
 ## Questions
 
-1. # Used Set Actions and Perameters. 
+### 1. Used Set Actions and Perameters. 
 Show top x causes of death and total deaths by perticular cause for y year. (x = number of causes, y = range of years)
 
-![Question 1](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%201.png)<br><br>
+![Question 1](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%201.png)<br>
 
 - conclusion
     - The bar chart on right shows top 10 causes of death. 
     - The bar chart on left shows the number of deaths from Cardivascular diseases.
     - It seems the number is growing during each years.
 
-2. # Use Tooltips.
+### 2. Use Tooltips.
 Show the percentage of Causes of Death by Year(Hover over causes bar to get the percentage)
 
-![Question 2](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%202.png)<br><br>
+![Question 2](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%202.png)<br>
 
 - conclusion
     - The image shows total edaths causes by Cardivascular Diseases are 33.76%
 
-3. #  Use Forcast Model.
+### 3.  Use Forcast Model.
 Show the prediction of top  x causes of death. (x = number of causes of death)
 
-![Question 3](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%203.png)<br><br>
+![Question 3](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%203.png)<br>
 
 - Conclusion
     - The line chart shows cardivascular diseases are growing rapidly
     - Neonatal disorders are getting under control
 
 
-4. #  Create animation 
+### 4. Create animation 
 Show Death by Cardivascular Diseases during all the years to get information about top 3 countries.
 
-![Question 4](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%204.png)<br><br>
+![Question 4](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%204.png)<br>
 
 - Conclusion
     - THe graph shows China, America and India are the countries where the death rate because of Cardivascular diseases are the highest.
 
-5. #  Create Dual Axis Pie Chart.
+### 5. Create Dual Axis Pie Chart.
 Show top 3 countries and top x causes of death. (x = number of causes of death)
 
-![Question 5](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%205.png)<br><br>
+![Question 5](https://github.com/AkashKadia47/Data-Visualization-and-Dashboards-with-Tableau/blob/main/Image/Question%205.png)<br>
 
 
 ## Challenges 
